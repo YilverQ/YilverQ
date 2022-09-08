@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hola, soy Yilver 👋🏼
+## Desarrollador Web ✨ 
 
+:computer: Larga experiencia desarrollando aplicaciones con:
+|Python|CSS|JavaScript|SQL|Flask|
+|---|---|---|---|---|
+
+
+💪🏼 Trabajando diariamente para mejorar como desarrollador.
+
+👀 Herramientas que aprender para mejorar mis habilidades:
+React|Node|
+---|---|
 <!--
 **YilverQ/YilverQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
