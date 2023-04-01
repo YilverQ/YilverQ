@@ -9,8 +9,8 @@
 💪🏼 Trabajando diariamente para mejorar como desarrollador.
 
 👀 Herramientas para aprender y mejorar mis habilidades:
-React|Node|Laravel
----|---|
+|React|Node|Docker|
+|---|---|---|
 <!--
 **YilverQ/YilverQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
