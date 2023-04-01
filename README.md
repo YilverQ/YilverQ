@@ -2,8 +2,8 @@
 ## Desarrollador Web ✨ 
 
 :computer: Larga experiencia desarrollando aplicaciones con:
-|Python|CSS|JavaScript|SQL|Flask|
-|---|---|---|---|---|
+|Python|Flask|CSS|JavaScript|SQL|PHP|Laravel
+|---|---|---|---|---|---|---|
 
 
 💪🏼 Trabajando diariamente para mejorar como desarrollador.
