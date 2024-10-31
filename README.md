@@ -2,13 +2,13 @@
 ## Desarrollador de Aplicaciones Web ✨ 
 
 :computer: Experiencia desarrollando aplicaciones con:
-|Python|Flask|FastAPI|CSS|JavaScript|SQL|PHP|Laravel
-|---|---|---|---|---|---|---|---|
+|Python|Flask|FastAPI|CSS|JavaScript|SQL|PHP|Laravel|Pandas
+|---|---|---|---|---|---|---|---|---|
  
 💪🏼 Trabajando diariamente para mejorar como desarrollador.
 
 👀 Herramientas para aprender y mejorar mis habilidades:
-|Docker|Servidores|Ciencia de Datos|
+|Inteligencia Artificial|Servidores|Ciencia de Datos|
 |---|---|---|
 <!--
 **YilverQ/YilverQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
